@@ -10,3 +10,5 @@ I have over 5 years of experience working as a system administrator and over 1 
 <a href="https://fb.com/gungam21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gungam21" height="30" width="30" /></a>
 <a href="https://instagram.com/unkle_alex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="unkle_alex" height="30" width="30" /></a>
 </p>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexshtilman)](https://github.com/anuraghazra/github-readme-stats)
