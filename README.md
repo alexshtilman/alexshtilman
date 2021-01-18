@@ -16,7 +16,7 @@ I have over 5 years of experience working as a system administrator and over 1 
 <img src="https://github.com/alexshtilman/alexshtilman/blob/main/img/flutter.svg?raw=true" alt="flutter" width="40" height="40"/>
 <img src="https://github.com/alexshtilman/alexshtilman/blob/main/img/html.png?raw=true" alt="html5" width="40" height="40"/>
 <img src="https://github.com/alexshtilman/alexshtilman/blob/main/img/java.png?raw=true" alt="java" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://github.com/alexshtilman/alexshtilman/blob/main/img/javascript.png?raw=true" alt="javascript" width="40" height="40"/>
 <img src="https://github.com/alexshtilman/alexshtilman/blob/main/img/jenkins.svg?raw=true" alt="jenkins" width="40" height="40"/>
 <img src="https://github.com/alexshtilman/alexshtilman/blob/main/img/kubernets.svg?raw=true" alt="kubernetes" width="40" height="40"/> 
 <img src="https://github.com/alexshtilman/alexshtilman/blob/main/img/linux.png?raw=true" alt="linux" width="40" height="40"/> 
