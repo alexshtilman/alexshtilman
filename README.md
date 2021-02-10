@@ -3,7 +3,7 @@
 <p>
 I’m looking for a job as  full stack Web Developer
 I am a hard-working individual whose main strengths lie in IT and software development. 
-I have over 5 years of experience working as a system administrator and over 1 year as full stack developer
+I have over 5 years of experience working as a system administrator and 2+ year as full stack developer
 </p> 
 <p align="left">
 
