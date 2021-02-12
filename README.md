@@ -38,10 +38,4 @@ I have over 5 years of experience working as a system administrator and 2+ year
 <img src="https://github.com/alexshtilman/alexshtilman/blob/main/img/jenkins.svg?raw=true" alt="jenkins" width="40" height="40"/>
 <img src="https://github.com/alexshtilman/alexshtilman/blob/main/img/kubernets.svg?raw=true" alt="kubernetes" width="40" height="40"/>
 
-</p><p align="center">
-<a href="https://linkedin.com/in/gungam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gungam" height="30" width="30" /></a>
-<a href="https://fb.com/gungam21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="gungam21" height="30" width="30" /></a>
-<a href="https://instagram.com/unkle_alex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="unkle_alex" height="30" width="30" /></a>
 </p>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexshtilman)](https://github.com/anuraghazra/github-readme-stats)
