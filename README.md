@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Shtilman</h1>
 <h3 align="center">A passionate fullstack developer from Israel</h3>
 <p>
-I’m looking for a job as  full stack Web Developer
-I am a hard-working individual whose main strengths lie in IT and software development. 
-I have over 5 years of experience working as a system administrator and 2+ years as full stack developer
+I’m looking for a job as Full-stack Developer ( Java Spring | JavaScript/TypeScript/React.js )
 </p> 
 <p align="left">
 
